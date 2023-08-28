@@ -3,7 +3,7 @@ package DataStructuresAndAlgorithms;
 import java.util.*;
 import java.io.*;
 
-public class A4ClientTest {
+public class KosarajuClient{
     public static void main(String[] args) throws Exception {
         Digraph digraph = new Digraph(12);
 
